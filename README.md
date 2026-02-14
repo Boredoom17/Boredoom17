@@ -24,4 +24,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boredoom17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Boredoom17&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+![](https://github-trophies.vercel.app/?username=Boredoom17&theme=radical&no-frame=false&margin-w=4)
