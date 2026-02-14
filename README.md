@@ -1,10 +1,7 @@
 <div align="center">
   
-# Hi, I'm Aadarsha Chhetri 👋
 
-### Full-Stack Developer | AI/ML Enthusiast | BITM Student
 
-*Building intelligent solutions that simplify everyday life*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-lovat.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boredoom17)
