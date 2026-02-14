@@ -1,3 +1,6 @@
+# 💫 About Me:
+7th semester BITM student passionate about building AI-powered solutions that simplify everyday life. I'm a full-stack developer diving deep into AI/ML fundamentals, with eyes set on IoT, robotics, and deep learning. I love turning ideas into functional apps—from ingredient scanners that suggest recipes to flight trackers and interactive treasure hunt games. Always experimenting, always learning, always building something that matters.<br>
+
 <div align="center">
   
 
@@ -7,10 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boredoom17)
 
 </div>
-
-# 💫 About Me:
-7th semester BITM student passionate about building AI-powered solutions that simplify everyday life. I'm a full-stack developer diving deep into AI/ML fundamentals, with eyes set on IoT, robotics, and deep learning. I love turning ideas into functional apps—from ingredient scanners that suggest recipes to flight trackers and interactive treasure hunt games. Always experimenting, always learning, always building something that matters.<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/boredoom/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshachh@gmail.com) 
