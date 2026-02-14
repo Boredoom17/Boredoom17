@@ -18,7 +18,7 @@
 ```python
 focus = {
     "learning": ["Deep Learning", "AI/ML Fundamentals", "Computer Vision"],
-    "building": ["Flight Tracker", "AI Recipe System"],
+    "building": ["Something that makes life easy"]
     "interests": ["IoT", "Robotics", "Intelligent Systems"]
 }
 ```
@@ -30,7 +30,7 @@ focus = {
 
 <div align="center">
 
-*"Building intelligent solutions, one project at a time"*
+*"Building solutions, one at a time"*
 
 </div>
 
