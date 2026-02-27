@@ -8,7 +8,6 @@ Always Experimenting, Always Learning, Always Devloping Something That Matters.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-lovat.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boredoom17)
 
 </div>
 
