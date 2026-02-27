@@ -2,7 +2,7 @@
 7th semester BITM student passionate about building AI-powered solutions that simplify everyday life. I'm a  developer diving deep into AI/ML fundamentals, with eyes set on IoT, robotics, and deep learning. I love turning ideas into functional apps. <br>
 
 <div align="center">
-**Always experimenting, always learning, always devloping something that matters.**
+**Always Experimenting, Always Learning, Always Devloping Something That Matters.**
 </div>
 
 <div align="center">
