@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadarsha&fontSize=80&fontAlignY=38&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+matters;CS+Student+%E2%86%92+AI%2FML+Engineer+in+progress;React+%E2%80%A2+Python+%E2%80%A2+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Developing+things+that+actually+matters;DO+%E2%86%92+REDO%2REDO+REDO;React+%E2%80%A2+Python+%E2%80%A2+Deep+Learning)]
+(https://git.io/typing-svg)
 
 </div>
 
