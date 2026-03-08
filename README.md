@@ -89,7 +89,7 @@ focus = {
 
 <div align="center">
 
-*"Ship it. Break it. Fix it. Repeat."*
+*"First Start, Optimize Later."*
 
 </div>
 
