@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadarsha&fontSize=80&fontAlignY=38&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Developing+things+that+actually+matter;Start+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Redo+%E2%86%92+Ship;Never+quit+on+the+person+you+started+for)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Developing+things+that+matters.;Start+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Redo+%E2%86%92+Ship;Never+quit+what+you+started.)](https://git.io/typing-svg)
 
 </div>
 
