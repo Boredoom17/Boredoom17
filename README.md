@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadarsh&fontSize=80&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadarsha&fontSize=80&fontAlignY=38&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+matters;CS+Student+%E2%86%92+AI%2FML+Engineer+in+progress;React+%E2%80%A2+Python+%E2%80%A2+Deep+Learning)](https://git.io/typing-svg)
 
@@ -15,8 +15,7 @@ I build AI-powered systems that solve real problems — not demos, not toys.
 Deep into ML, IoT, and robotics. Obsessed with making intelligent things.
 <br>
 Every project is a step toward something that actually matters.
-
-<br>
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-lovat.vercel.app/)
 
@@ -25,14 +24,13 @@ Every project is a step toward something that actually matters.
 ---
 
 ## 🎯 Currently Exploring
-
 ```python
 focus = {
     "learning": ["Deep Learning", "AI/ML Fundamentals", "Computer Vision"],
     "building": ["Something that makes life easy"],
     "interests": ["IoT", "Robotics", "Intelligent Systems"]
 }
-` ` `
+```
 
 ---
 
@@ -41,7 +39,7 @@ focus = {
 <div align="center">
 
 [![Languages & Frontend](https://skillicons.dev/icons?i=js,ts,python,react,tailwind,nodejs&theme=dark)](https://skillicons.dev)
-
+<br>
 [![Backend, AI & Cloud](https://skillicons.dev/icons?i=flask,pytorch,aws,gcp,firebase,supabase,mongodb,mysql,git&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -52,13 +50,12 @@ focus = {
 
 <div align="center">
 
-<table>
-<tr>
+<table><tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=Boredoom17&show_icons=true&theme=tokyonight&hide_border=true" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boredoom17&layout=compact&theme=tokyonight&hide_border=true" /></td>
-<td><img src="https://streak-stats.demolab.com?user=Boredoom17&theme=tokyonight-duo&hide_border=true" /></td>
-</tr>
-</table>
+</tr></table>
+
+<img src="https://streak-stats.demolab.com?user=Boredoom17&theme=tokyonight-duo&hide_border=true" />
 
 </div>
 
@@ -74,7 +71,6 @@ focus = {
 
 ---
 
-<!-- Snake contribution graph — requires GitHub Actions workflow (Platane/snk) to generate the SVG into the `output` branch -->
 <div align="center">
 
 ![snake](https://github.com/Boredoom17/Boredoom17/raw/output/github-contribution-grid-snake-dark.svg)
