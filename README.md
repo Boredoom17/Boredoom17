@@ -1,39 +1,101 @@
-# 💫 About Me:
-7th semester BITM student passionate about building AI-powered solutions that simplify everyday life. I'm a  developer diving deep into AI/ML fundamentals, with eyes set on IoT, robotics, and deep learning. I love turning ideas into functional apps. <br>
-
-<div align="center">
-Always Experimenting, Always Learning, Always Devloping Something That Matters.
-</div>
-<br>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-lovat.vercel.app/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadarsh&fontSize=80&fontAlignY=38&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+matters;CS+Student+%E2%86%92+AI%2FML+Engineer+in+progress;React+%E2%80%A2+Python+%E2%80%A2+Deep+Learning)](https://git.io/typing-svg)
 
 </div>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boredoom/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshachh@gmail.com) 
-
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 🎯 Currently Exploring:
-```python
-focus = {
-    "learning": ["Deep Learning", "AI/ML Fundamentals", "Computer Vision"],
-    "building": ["Something that makes life easy"]
-    "interests": ["IoT", "Robotics", "Intelligent Systems"]
-}
-```
-
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Boredoom17&theme=radical&no-frame=false&margin-w=4)
 
 ---
 
 <div align="center">
 
-*"Building solutions, one at a time"*
+I build AI-powered systems that solve real problems — not demos, not toys.
+<br>
+Deep into ML, IoT, and robotics. Obsessed with making intelligent things.
+<br>
+Every project is a step toward something that actually matters.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-lovat.vercel.app/)
 
 </div>
+
+---
+
+## 🎯 Currently Exploring
+
+```python
+focus = {
+    "learning": ["Deep Learning", "AI/ML Fundamentals", "Computer Vision"],
+    "building": ["Something that makes life easy"],
+    "interests": ["IoT", "Robotics", "Intelligent Systems"]
+}
+```
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+[![Languages & Frontend](https://skillicons.dev/icons?i=js,ts,python,react,tailwind,nodejs&theme=dark)](https://skillicons.dev)
+
+[![Backend, AI & Cloud](https://skillicons.dev/icons?i=flask,pytorch,aws,gcp,firebase,supabase,mongodb,mysql,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Boredoom17&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boredoom17&layout=compact&theme=tokyonight&hide_border=true" /></td>
+<td><img src="https://streak-stats.demolab.com?user=Boredoom17&theme=tokyonight-duo&hide_border=true" /></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-trophies.vercel.app/?username=Boredoom17&theme=tokyonight&no-frame=true&margin-w=4)
+
+</div>
+
+---
+
+<!-- Snake contribution graph — requires GitHub Actions workflow (Platane/snk) to generate the SVG into the `output` branch -->
+<div align="center">
+
+![snake](https://github.com/Boredoom17/Boredoom17/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boredoom/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshachh@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Ship it. Break it. Fix it. Repeat."*
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
