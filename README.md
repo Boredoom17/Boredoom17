@@ -17,7 +17,6 @@ Deep into ML, IoT, and robotics. Obsessed with making intelligent things.
 Every project is a step toward something that actually matters.
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-lovat.vercel.app/)
 
 </div>
 
