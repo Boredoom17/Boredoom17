@@ -12,7 +12,7 @@
 
 I build AI-powered systems that solve problems.
 <br>
-Deep into ML, IoT, and robotics. Obsessed with making intelligent things
+Deep into ML, IoT, and robotics. Obsessed with making intelligent things.
 <br>
 Every project is a step toward something that actually matters.
 <br><br>
