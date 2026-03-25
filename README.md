@@ -22,7 +22,7 @@ Every project is a step toward something that actually matters.
 
 ---
 
-## 🎯 Currently Exploring
+## 🎯 Currently Exploringg
 ```python
 focus = {
     "learning": ["Deep Learning", "AI/ML Fundamentals", "Computer Vision"],
