@@ -10,7 +10,7 @@
 
 <div align="center">
 
-I build AI-powered systems that solve 
+I build AI-powered systems that solve problems
 <br>
 Deep into ML, IoT, and robotics. Obsessed with making intelligent things.
 <br>
